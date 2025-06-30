@@ -1,0 +1,6 @@
+@almacen.api_HostAddress = http://localhost:5108
+
+GET {{almacen.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
